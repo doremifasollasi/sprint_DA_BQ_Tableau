@@ -12,3 +12,5 @@ Our plan:
 ➡️ Day 3: Route to a career in data analytics. Creating dashboards and using charts in Tableau
 
 ➡️ Day 4: Sprint finish. Online meeting and raffle for a scholarship to study on the "Data Analyst" course from Changers.
+## [Result](https://eu-west-1a.online.tableau.com/t/httpswwwsoftserveinccomukua/views/BikeShare/Bike_share/1486708e-d630-430d-992b-1ba64d1ecefe/cd219ed7-39b4-45eb-9969-75fcb50b7b25)
+(You will need to log in to Tableau to view)
