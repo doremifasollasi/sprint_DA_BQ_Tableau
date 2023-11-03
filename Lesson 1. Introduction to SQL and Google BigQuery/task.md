@@ -1,13 +1,13 @@
-Start by watching lesson number 1 - the teacher will provide detailed instructions for completing the task, repeat according to it:
+Start by watching [lesson 1](https://youtu.be/jGXv22udFBc?t=381) - the teacher will provide detailed instructions for completing the task, repeat according to it:
 
 1. Sign up for Google BigQuery
-If you don't already have a Google BigQuery account, sign up [here] (use your existing Google account or create a new one).
+If you don't already have a Google BigQuery account, sign up [here](https://cloud.google.com/bigquery) (use your existing Google account or create a new one).
 
-2. Log in to Google BigQuery
+2. Log in to [Google BigQuery](https://console.cloud.google.com/bigquery)
 Use your account to sign in to Google BigQuery.
 
 3. Select the San Francisco Ford GoBike Share dataset.
-You can select the "San Francisco Ford GoBike Share" dataset in Google BigQuery by [link]
+You can select the "San Francisco Ford GoBike Share" dataset in Google BigQuery by [link](https://console.cloud.google.com/marketplace/product/san-francisco-public-data/sf-bike-share)
 
 4. Consider the structure of the dataset
 Examine the data structure in the San Francisco Ford GoBike Share dataset in detail, including tables, fields, and data types as instructed in the lesson
