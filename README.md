@@ -1,2 +1,14 @@
 # sprint_DA_BQ_Tableau
-Srint for Data analytics from Changer.
+[Sprint for Data analytics from Changer](https://web.telegram.org/k/#@sprint_da_bot)
+
+In the next 4 days, you will learn everything about the profession, as well as learn how to collect, analyze data and masterfully create dashboards in Tableau!
+
+Our plan:
+
+➡️ Day 1: First steps in data analytics. Introduction to SQL and Google BigQuery
+
+➡️ Day 2: Market prospects of Data analytics. The basics of working with Tableau: from loading data to your first visual graphs
+
+➡️ Day 3: Route to a career in data analytics. Creating dashboards and using charts in Tableau
+
+➡️ Day 4: Sprint finish. Online meeting and raffle for a scholarship to study on the "Data Analyst" course from Changers.
